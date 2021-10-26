@@ -10,4 +10,4 @@
   
   1) npm run write: This command will automatically result into "node app.js write". You can use this command when you want to use write operation. It will ask for a file name from user and writes a specific message in the file. If the file already exists it will ask user to enter another file name.
   2) npm run start: This command will automatically result into "node app.js". You can use this command when you don't want to use write operation.
-  3) npm run dev": This command will automatically result into "nodemon app.js". You can use this command when you want to use nodemon features and don't want to use write operation.
+  3) npm run dev: This command will automatically result into "nodemon app.js". You can use this command when you want to use nodemon features and don't want to use write operation.
